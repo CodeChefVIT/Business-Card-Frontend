@@ -4,19 +4,9 @@
 
 ## About The Project
 
-Creating your own Bussiness Card using a npm module, looks way more cooler than a normal boring contact card. Create an output template and publish it as a npm module package. If you write **npx rishabh007** in your linux terminals, this is what you get:-
+API for creating business cards in frontend
 
-![Cool Right?](https://raw.githubusercontent.com/RishabhKodes/npxCard/master/bin/card.png)
-
-### Built With
-
-Some major frameworks that were used in creating of this project:-
-
-- [npm](https://www.npmjs.com/)
-- [Chalk](https://www.npmjs.com/package/chalk)
-- [Boxen](https://www.npmjs.com/package/boxen)
-
-<!-- GETTING STARTED -->
+![Cool Right?](https://documenter.getpostman.com/view/8339014/Szzheyjd)
 
 ## Getting Started
 
