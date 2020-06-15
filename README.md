@@ -6,7 +6,7 @@
 
 API for creating business cards in frontend
 
-![Cool Right?](https://documenter.getpostman.com/view/8339014/Szzheyjd)
+[Check out the documentation](https://documenter.getpostman.com/view/8339014/Szzheyjd)
 
 ## Getting Started
 
